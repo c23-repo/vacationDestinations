@@ -7,3 +7,8 @@
 #title {
   text-align: center;
 }
+
+.buttons_container {
+  display: flex;
+  justify-content: space-around;
+}
